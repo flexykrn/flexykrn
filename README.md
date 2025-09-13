@@ -2,10 +2,6 @@
 # 💫 About Me:
 just a padawan on the grid <br>Building through the chicanes of AI & Web3 🏁🏎️💨🚦
 
-
-## 🌐 Socials:
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanpawar.dev@gmail.com) 
 
