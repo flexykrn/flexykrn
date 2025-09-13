@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yeah+this+is+me+)](https://git.io/typing-svg)
-
-[![](https://visitcount.itsvg.in/api?id=flexykrn&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 just a padawan on the grid <br>Building through the chicanes of AI & Web3 🏁🏎️💨🚦
 
