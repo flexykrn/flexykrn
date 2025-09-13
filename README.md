@@ -1,5 +1,9 @@
-#💫 About Me: 
+
+# 💫 About Me:
 just a padawan on the grid <br>Building through the chicanes of AI & Web3 🏁🏎️💨🚦
+
+
+## 🌐 Socials:
 
 
 ## 🌐 Socials:
